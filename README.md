@@ -34,6 +34,6 @@ CGI工作概要
 
 
 ## Python
-我将原项目中的`python`cgi修改为了python3/2版通用的方式,顺便加了些注解。o(∩∩)o...
+我将原项目中的`python`cgi修改为了python3/2版通用的方式,毕竟python2已经进入历史,顺便加了些注解。o(∩∩)o...
 
 **注意**: 如果要正常运行记得chmod各个cgi文件， 如`sudo chmod 764 htdocs/*.cgi`
